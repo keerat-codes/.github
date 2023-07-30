@@ -22,6 +22,6 @@ Please reach out to gurkeeratsondhi@gmail.com for any of the above mentioned thi
 
 ## Resources
 
-You can try out AutoPilot at  [website]([https://www.autopilot.com](https://autopilot-zgz8.onrender.com)). 
+You can try out AutoPilot at :  https://autopilot-zgz8.onrender.com 
 
 Thank you for joining us on this exciting journey of innovation and automation. Together, we'll make software development a breeze with AutoPilot! 🚀🛸
